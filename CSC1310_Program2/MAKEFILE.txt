@@ -1,0 +1,20 @@
+OBJS    = Driver.o DataClass.o
+SOURCE  = Driver.cpp DataClass.cpp
+HEADER  = DataClass.h, LinkedListDriver.h, SmartPointer.h
+OUT     = SuperSorter.out
+FLAGS   = -g -c -Wall
+LFLAGS  =
+CC      = g++
+
+ALL:    SuperSorter.out
+
+SuperSorter.out: $(OBJS)
+    $(CC) -g $(OBJS) -o $(OUT) $(LFLAGS)
+
+    Driver.o: Driver.cpp
+    $(CC) $(FLAGS) Driver.cpp
+    DataClass.o: DataClass.cpp
+    $(CC) $(FLAGS) DataClass.cpp
+    
+    clean:
+    rm -f $(OBJS) $(OUT)

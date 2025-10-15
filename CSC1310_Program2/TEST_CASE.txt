@@ -1,0 +1,209 @@
+Data loaded successfully from superheroes.txt!
+         ######  ##     ## ########  ######## ########
+        ##    ## ##     ## ##     ## ##       ##     ##
+        ##       ##     ## ##     ## ##       ##     ##
+         ######  ##     ## ########  ######   ########
+              ## ##     ## ##        ##       ##   ##
+        ##    ## ##     ## ##        ##       ##    ##
+         ######   #######  ##        ######## ##     ##
+         ######   #######  ########  ######## ####
+        ##    ## ##     ## ##     ##    ##    ####
+        ##       ##     ## ##     ##    ##    ####
+         ######  ##     ## ########     ##     ##
+              ## ##     ## ##   ##      ##
+        ##    ## ##     ## ##    ##     ##    ####
+         ######   #######  ##     ##    ##    ####
+
+***Welcome to Superhero Super Sort!***
+See who's the best of the best or even who's the worst!
+
+! Superhero List Manager !
+        1. Add a Superhero
+        2. Remove a Superhero
+        3. View Heroes (Best to Worst)
+        4. View Heroes (Worst to Best)
+        5. Print Heroes by Index
+        6. Get Hero at Index
+        7. Save and Exit
+Choose an option: 2
+
+Enter the name of the superhero to remove: no
+There are no heroes in the list.
+Superhero not found!
+
+! Superhero List Manager !
+        1. Add a Superhero
+        2. Remove a Superhero
+        3. View Heroes (Best to Worst)
+        4. View Heroes (Worst to Best)
+        5. Print Heroes by Index
+        6. Get Hero at Index
+        7. Save and Exit
+Choose an option: 1
+
+Input 'exit' to no longer add Superheroes.
+Enter Superhero Name: Batman
+Enter Power Level: 65
+Enter Superpower: Money
+
+Superhero added successfully!
+
+Input 'exit' to no longer add Superheroes.
+Enter Superhero Name: Spiderman
+Enter Power Level: 89
+Enter Superpower: Spidy Senses
+
+Superhero added successfully!
+
+Input 'exit' to no longer add Superheroes.
+Enter Superhero Name: Barbie
+Enter Power Level: 100
+Enter Superpower: Pink
+
+Superhero added successfully!
+
+Input 'exit' to no longer add Superheroes.
+Enter Superhero Name: Shaggy
+Enter Power Level: 45
+Enter Superpower: Zoinks
+
+Superhero added successfully!
+
+Input 'exit' to no longer add Superheroes.
+Enter Superhero Name: exit
+
+! Superhero List Manager !
+        1. Add a Superhero
+        2. Remove a Superhero
+        3. View Heroes (Best to Worst)
+        4. View Heroes (Worst to Best)
+        5. Print Heroes by Index
+        6. Get Hero at Index
+        7. Save and Exit
+Choose an option: 5
+
+Heroes by Index:
+Index 0: Name: Barbie, Power Level: 100, Superpower: Pink
+Index 1: Name: Spiderman, Power Level: 89, Superpower: Spidy Senses
+Index 2: Name: Batman, Power Level: 65, Superpower: Money
+Index 3: Name: Shaggy, Power Level: 45, Superpower: Zoinks
+
+! Superhero List Manager !
+        1. Add a Superhero
+        2. Remove a Superhero
+        3. View Heroes (Best to Worst)
+        4. View Heroes (Worst to Best)
+        5. Print Heroes by Index
+        6. Get Hero at Index
+        7. Save and Exit
+Choose an option: 3
+
+Heroes from Best to Worst:
+Top Ranked Heroes!
+RANK 1: Barbie
+RANK 1: Spiderman
+RANK 2: Batman
+RANK 3: Shaggy
+
+! Superhero List Manager !
+        1. Add a Superhero
+        2. Remove a Superhero
+        3. View Heroes (Best to Worst)
+        4. View Heroes (Worst to Best)
+        5. Print Heroes by Index
+        6. Get Hero at Index
+        7. Save and Exit
+Choose an option: 4
+
+Heroes from Worst to Best:
+Bottom Ranked Heroes!
+RANK 3: Shaggy
+RANK 2: Batman
+RANK 1: Spiderman
+RANK 1: Barbie
+
+! Superhero List Manager !
+        1. Add a Superhero
+        2. Remove a Superhero
+        3. View Heroes (Best to Worst)
+        4. View Heroes (Worst to Best)
+        5. Print Heroes by Index
+        6. Get Hero at Index
+        7. Save and Exit
+Choose an option: 2
+
+Enter the name of the superhero to remove: Shaggy
+The superhero Shaggy has been deleted from the list.
+Superhero removed successfully!
+
+! Superhero List Manager !
+        1. Add a Superhero
+        2. Remove a Superhero
+        3. View Heroes (Best to Worst)
+        4. View Heroes (Worst to Best)
+        5. Print Heroes by Index
+        6. Get Hero at Index
+        7. Save and Exit
+Choose an option: 3
+
+Heroes from Best to Worst:
+Top Ranked Heroes!
+RANK 1: Barbie
+RANK 1: Spiderman
+RANK 2: Batman
+
+! Superhero List Manager !
+        1. Add a Superhero
+        2. Remove a Superhero
+        3. View Heroes (Best to Worst)
+        4. View Heroes (Worst to Best)
+        5. Print Heroes by Index
+        6. Get Hero at Index
+        7. Save and Exit
+Choose an option: 4
+
+Heroes from Worst to Best:
+Bottom Ranked Heroes!
+RANK 2: Batman
+RANK 1: Spiderman
+RANK 1: Barbie
+
+! Superhero List Manager !
+        1. Add a Superhero
+        2. Remove a Superhero
+        3. View Heroes (Best to Worst)
+        4. View Heroes (Worst to Best)
+        5. Print Heroes by Index
+        6. Get Hero at Index
+        7. Save and Exit
+Choose an option: 5
+
+Heroes by Index:
+Index 0: Name: Barbie, Power Level: 100, Superpower: Pink
+Index 1: Name: Spiderman, Power Level: 89, Superpower: Spidy Senses
+Index 2: Name: Batman, Power Level: 65, Superpower: Money
+
+! Superhero List Manager !
+        1. Add a Superhero
+        2. Remove a Superhero
+        3. View Heroes (Best to Worst)
+        4. View Heroes (Worst to Best)
+        5. Print Heroes by Index
+        6. Get Hero at Index
+        7. Save and Exit
+Choose an option: 6
+
+Enter the index of the superhero to retrieve: 1
+Hero at index 1: Name: Spiderman, Power Level: 89, Superpower: Spidy Senses
+
+! Superhero List Manager !
+        1. Add a Superhero
+        2. Remove a Superhero
+        3. View Heroes (Best to Worst)
+        4. View Heroes (Worst to Best)
+        5. Print Heroes by Index
+        6. Get Hero at Index
+        7. Save and Exit
+Choose an option: 7
+Data saved successfully to superheroes.txt!
+Exiting the program. Up-Up-And-Away!
